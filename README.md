@@ -47,8 +47,11 @@ https://github.com/karthikjaps/Terraform-Demo.git
 Modify the following variables in terraform.tfvars file:
 
 AWS _CLI:configure AWS CLI
+
 region: AWS region to deploy resources.
+
 key_name: Name of your EC2 key pair for SSH access.
+
 endpoint: Email endpoint for SNS notifications.
 
 Initialize Terraform:
