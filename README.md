@@ -1,5 +1,7 @@
 Terraform AWS Web Server Deployment
+
 Overview
+
 This Terraform configuration deploys a web server setup on AWS, including a VPC with public and private subnets, an Application Load Balancer (ALB), Auto Scaling Group, and related resources. The setup includes a bastion host for SSH access and a web server running Nginx.
 
 Services Used
