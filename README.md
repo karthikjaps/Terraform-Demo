@@ -40,7 +40,9 @@ Notifications: Sets up an SNS topic with email subscriptions for receiving notif
 Usage
 Clone this repository:
 
-git clone https://github.com/your/repo.git
+
+https://github.com/karthikjaps/Terraform-Demo.git
+
 
 Modify the following variables in terraform.tfvars file:
 
